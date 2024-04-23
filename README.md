@@ -16,6 +16,15 @@ To run this app locally, follow these steps:
 
 1. Clone this repository to your local machine:
 
+```bash
+git clone
+```
+```bash
+npm install
+```
+```bash
+npm start
+```
 
 ## Technologies Used
 
